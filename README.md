@@ -1,3 +1,4 @@
 # OS181
-
-OS181 A 1606831464 adeva98.git shavira.adeva.sso Shavira Adeva
+os181 1606831464 adeva98 shavira.adeva Shavira Adeva
+ZCZC Sistem Operasi 2018 Awal(1)
+ZCZC WOO Telah mencoba demo week00
